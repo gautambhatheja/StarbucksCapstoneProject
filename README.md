@@ -79,7 +79,7 @@ I was able to make a model and predict the amount a new customer will spend on S
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I must give credit to Udacity and Starbucks for the data. I am the author of this project. 
 
-_References:
+_References_:
 * https://xgboost.readthedocs.io/en/latest/
 * https://matplotlib.org/
 * https://stackoverflow.com/
