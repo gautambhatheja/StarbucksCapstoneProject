@@ -75,6 +75,7 @@ I was able to make a model and predict the amount a new customer will spend on S
 * Test RMSE error: 84.0456223669343
 
 3) To showcase my project I have written a blogpost on Medium, the link for which can be found below:
+https://medium.com/@bhathejagautam/how-much-do-you-spend-at-starbucks-b32b66979512
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I must give credit to Udacity and Starbucks for the data. I am the author of this project. 
