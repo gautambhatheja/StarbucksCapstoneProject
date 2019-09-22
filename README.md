@@ -25,9 +25,9 @@ I was intrigued by the promotional offers that companies like Starbucks give to 
 
 ## File Descriptions<a name="files"></a>
 
-There are 2 files and one folder in this repository. They are:
+There are 3 files in this repository. They are:
 
-1) Data Folder:
+1) data.zip:
 The data set that I have used contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
 The data is contained in three files:
