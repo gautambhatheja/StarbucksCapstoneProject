@@ -59,7 +59,7 @@ iii) transcript.json - records for transactions, offers received, offers viewed,
 
 ## Instructions to implement the project<a name="instructions"></a>
 1) Install the libraries required.
-2) Download theJ upyter notebook file.
+2) Download the Jupyter notebook file.
 3) Download the data zip file in this repo and extract it.
 4) Put the data folder in the folder where your Jupyter notebook file is.
 5) Open the Jupyter notebook file and run the code. 
